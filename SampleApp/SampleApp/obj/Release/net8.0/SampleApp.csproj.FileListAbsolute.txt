@@ -1,0 +1,15 @@
+C:\Users\minhp\Music\Deployment-Portfolio-Task1\SampleApp\SampleApp\bin\Release\net8.0\SampleApp.exe
+C:\Users\minhp\Music\Deployment-Portfolio-Task1\SampleApp\SampleApp\bin\Release\net8.0\SampleApp.deps.json
+C:\Users\minhp\Music\Deployment-Portfolio-Task1\SampleApp\SampleApp\bin\Release\net8.0\SampleApp.runtimeconfig.json
+C:\Users\minhp\Music\Deployment-Portfolio-Task1\SampleApp\SampleApp\bin\Release\net8.0\SampleApp.dll
+C:\Users\minhp\Music\Deployment-Portfolio-Task1\SampleApp\SampleApp\bin\Release\net8.0\SampleApp.pdb
+C:\Users\minhp\Music\Deployment-Portfolio-Task1\SampleApp\SampleApp\obj\Release\net8.0\SampleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhp\Music\Deployment-Portfolio-Task1\SampleApp\SampleApp\obj\Release\net8.0\SampleApp.AssemblyInfoInputs.cache
+C:\Users\minhp\Music\Deployment-Portfolio-Task1\SampleApp\SampleApp\obj\Release\net8.0\SampleApp.AssemblyInfo.cs
+C:\Users\minhp\Music\Deployment-Portfolio-Task1\SampleApp\SampleApp\obj\Release\net8.0\SampleApp.csproj.CoreCompileInputs.cache
+C:\Users\minhp\Music\Deployment-Portfolio-Task1\SampleApp\SampleApp\obj\Release\net8.0\SampleApp.sourcelink.json
+C:\Users\minhp\Music\Deployment-Portfolio-Task1\SampleApp\SampleApp\obj\Release\net8.0\SampleApp.dll
+C:\Users\minhp\Music\Deployment-Portfolio-Task1\SampleApp\SampleApp\obj\Release\net8.0\refint\SampleApp.dll
+C:\Users\minhp\Music\Deployment-Portfolio-Task1\SampleApp\SampleApp\obj\Release\net8.0\SampleApp.pdb
+C:\Users\minhp\Music\Deployment-Portfolio-Task1\SampleApp\SampleApp\obj\Release\net8.0\SampleApp.genruntimeconfig.cache
+C:\Users\minhp\Music\Deployment-Portfolio-Task1\SampleApp\SampleApp\obj\Release\net8.0\ref\SampleApp.dll

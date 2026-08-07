@@ -1,0 +1,6 @@
+C:\Users\minhp\Music\Deployment-Portfolio-Task1\SampleApp\SampleAppSetup\bin\Debug\SampleAppSetup.msi
+C:\Users\minhp\Music\Deployment-Portfolio-Task1\SampleApp\SampleAppSetup\bin\Debug\SampleAppSetup.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\SampleAppSetup.wixproj.BindContentsFileListnull.txt
+obj\Debug\SampleAppSetup.wixproj.BindOutputsFileListnull.txt
+obj\Debug\SampleAppSetup.wixproj.BindBuiltOutputsFileListnull.txt

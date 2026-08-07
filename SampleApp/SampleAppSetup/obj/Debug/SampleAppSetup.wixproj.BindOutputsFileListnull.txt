@@ -1,0 +1,2 @@
+C:\Users\minhp\Music\Deployment-Portfolio-Task1\SampleApp\SampleAppSetup\bin\Debug\SampleAppSetup.msi
+C:\Users\minhp\Music\Deployment-Portfolio-Task1\SampleApp\SampleAppSetup\bin\Debug\SampleAppSetup.wixpdb
