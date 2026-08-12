@@ -28,6 +28,14 @@
 				<File
 					Id="CalculatorAppDeps"
 					Source="$(var.CalculatorApp.TargetDir)CalculatorApp.deps.json" />
+				
+				<File
+					Id="MathNetNumericsDLL"
+					Source="$(var.CalculatorApp.TargetDir)MathNet.Numerics.dll" />
+
+				<File
+					Id="NewtonsoftJsonDLL"
+					Source="$(var.CalculatorApp.TargetDir)Newtonsoft.Json.dll" />
 
 			</Component>
 		</DirectoryRef>
