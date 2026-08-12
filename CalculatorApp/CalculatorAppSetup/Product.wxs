@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+	<Product Id="*" Name="CalculatorApp" Language="1033" Version="1.0.0.0" Manufacturer="SwinburneStudent"
+	UpgradeCode="FA5EF37F-6FF1-45E9-87C8-409749F2BE26">
+		<Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
+		<MediaTemplate EmbedCab="yes" />
+		<Directory Id="TARGETDIR" Name="SourceDir">
+			<Directory Id="ProgramFilesFolder">
+				<Directory Id="INSTALLFOLDER" Name="CalculatorApp" />
+			</Directory>
+		</Directory>
+		<DirectoryRef Id="INSTALLFOLDER">
+			<Component Id="MainExecutable" Guid="9F72DB21-90AE-4633-8DFA-B55392D24CC9">
+
+				<File
+					Id="CalculatorAppEXE"
+					Source="$(var.CalculatorApp.TargetDir)CalculatorApp.exe"
+					KeyPath="yes" />
+
+				<File
+					Id="CalculatorAppDLL"
+					Source="$(var.CalculatorApp.TargetDir)CalculatorApp.dll" />
+
+				<File
+					Id="CalculatorAppRuntimeConfig"
+					Source="$(var.CalculatorApp.TargetDir)CalculatorApp.runtimeconfig.json" />
+
+				<File
+					Id="CalculatorAppDeps"
+					Source="$(var.CalculatorApp.TargetDir)CalculatorApp.deps.json" />
+
+			</Component>
+		</DirectoryRef>
+		<Feature Id="ProductFeature" Title="CalculatorApp" Level="1">
+			<ComponentRef Id="MainExecutable" />
+		</Feature>
+	</Product>
+</Wix>

@@ -20,7 +20,7 @@ namespace CalculatorApp
 
                 double result;
 
-                switch (operation) 
+                switch (operation)
                 {
                     case  "+":
                             result = num1 + num2;
